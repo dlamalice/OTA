@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1649809264,
+      "filename": "lineage-18.1-20220413-UNOFFICIAL-starlte-kernel-4.9.309_wg_20211208_SPOOFING.zip",
+      "id": "5f0zc425b6526b04cde81agge1261e5c3b",
+      "romtype": "UNOFFICIAL",
+      "size": 622222222,
+      "url": "https://github.com/dlamalice/OTA/releases/download/lineage-18.1-20220413-UNOFFICIAL-starlte-kernel-4.9.309_wg_20211208_SPOOFING.zip",
+      "version": "18.1"
+    }
+  ]
+}
