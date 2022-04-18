@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1650053752,
-      "filename": "lineage-18.1-denis-20220415-UNOFFICIAL-starlte-user-signed-ota_update.zip",
+      "datetime": 1650266575,
+      "filename": "lineage-18.1-denis-20220418-UNOFFICIAL-starlte-user-signed-ota_update.zip",
       "id": "5f0zc425b6526b04cde81agge1261e5c3c",
       "romtype": "UNOFFICIAL",
-      "size": 620334241,
-      "url": "https://github.com/dlamalice/OTA/releases/download/Lineage/lineage-18.1-denis-20220415-UNOFFICIAL-starlte-user-signed-ota_update.zip",
+      "size": 620329216,
+      "url": "https://github.com/dlamalice/OTA/releases/download/Lineage/lineage-18.1-denis-20220418-UNOFFICIAL-starlte-user-signed-ota_update.zip",
       "version": "18.1"
     }
   ]
